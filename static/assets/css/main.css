@@ -2741,7 +2741,7 @@ button,
   display: -ms-flex;
   display: flex;
   border-bottom: solid 5px #ec2719;
-  padding: 6em 0 1em 0;
+  /* padding: 6em 0 1em 0; */
   position: relative;
 }
   #header > * {
@@ -2801,6 +2801,7 @@ button,
     align-items: center;
   }
 .banner-text {
+    font-family: "Roboto Slab", serif;
     font-size: 5em;
 }
 
