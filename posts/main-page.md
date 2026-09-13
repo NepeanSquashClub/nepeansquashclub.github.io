@@ -1,6 +1,6 @@
 ## Membership fees
 
-September 1, 2025 to August 31, 2026:
+September 1, 2026 to August 31, 2027:
 
 - Adult - $30
 - Family - $45
